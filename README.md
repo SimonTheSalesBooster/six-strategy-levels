@@ -2,7 +2,7 @@
 
 **The simplest way to organize a business. One page. Reads in 60 seconds.**
 
-Most founders either live at 50,000 feet (vision without execution) or at ground level (busy without direction). This framework forces both onto one page by borrowing David Allen's GTD horizons and applying them to how a real company operates.
+Most founders either live at 50,000 feet (vision without execution) or at ground level (busy without direction). This framework forces both onto one page and builds on what David Allen has built (GTD horizons) as well as what Simon Severino has built (Strategy Sprints Method) applying them to how your current company operates.
 
 It is the structure we use at [Strategy Sprints](https://strategysprints.com) to run our own business and with every client we work with.
 
