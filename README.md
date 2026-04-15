@@ -99,7 +99,7 @@ We don't just hand you a framework. We sit next to you, redesign your offer, reb
 
 **If any of this lands:**
 
-- 🗓️ **[Book a 15-minute coffee with Simon](https://calendly.com/simonseverino/coffee-with-simon)**
+- 🗓️ **[Book a 30-minute coffee with Simon](https://calendly.com/simonseverino/coffee-with-simon)**
 - 🗓️ **[Book a discovery call for the 90-day sprint](https://calendly.com/strategysprint/discovery-call)**
 - 🗓️ **[Explore the Certification program](https://calendly.com/strategysprint/certification)**
 - 🌍 **[strategysprints.com](https://strategysprints.com)**

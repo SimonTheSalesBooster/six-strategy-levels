@@ -76,4 +76,4 @@ The lesson: **a strategy you don't review weekly isn't a strategy. It's a docume
 
 ---
 
-*If you want help installing this in your business, we do 90-day sprints with founders to redesign the whole GTM engine. [Book a 15-min coffee →](https://calendly.com/simonseverino/coffee-with-simon)*
+*If you want help installing this in your business, we do 90-day sprints with founders to redesign the whole GTM engine. [Book a 30-min coffee →](https://calendly.com/simonseverino/coffee-with-simon)*
